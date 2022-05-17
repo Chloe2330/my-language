@@ -1,0 +1,24 @@
+input number x
+input number y
+input word w1
+input word w2
+
+doMath o = 4 + 5
+   
+iff( x == y )
+   output( " the two numbers are equal. " )
+
+iff( w1.length > w2.length )
+   output( " first word is a longer word. " )
+
+iff( w1.length < w2.length )
+   output( " first word is a shorter word. " )
+
+iff( w1.length == w2.length )
+   output( " first word length is equal to second word length. " )
+
+fLoop( 3 )
+   output( x )
+
+< Cannot compile >
+print x;
