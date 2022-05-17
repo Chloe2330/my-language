@@ -2,11 +2,11 @@
 
 # Chloe's Compiler
 
-Chloe's Compiler is a programming language written in Java that can accept user inputs, do math computations, preform if statements and integer/string comparisons, and preform for loops. 
+Chloe's Compiler is a programming language written in Java that can accept user inputs, do math computations, perform if statements and integer/string comparisons, and perform for loops. 
 
 ## Usage
 
-1. How to create a user input variable (ints and Strings) 
+1. How to create a user input variable (integers and Strings) 
 
 input number x
 input word y 
