@@ -1,6 +1,3 @@
-// Chloe Lin
-// Period 1
-// 4/18/2021
 // Chloe's compiler (programming language written in Java)
 
 package jansem2.Compiler;
